@@ -64,6 +64,18 @@ Westworld quote, Jeurgen-Schmit (what's his name) quote
 
 ### Grounded Deep Learning Papers/Projects
 
+[Systematically grounding language through vision in a deep, recurrent neural network](http://dl.acm.org/citation.cfm?id=2032886)
+
+[Grounding Hierarchical Reinforcement Learning Models for Knowledge Transfer](https://pdfs.semanticscholar.org/4874/6c6f781930b10349fcec80b1636ca8f6123c.pdf)
+
+[Learning to Play Guess Who? and Inventing a Grounded Language as a Consequence](https://arxiv.org/abs/1611.03218)
+
+[Google's DeepMind releases Lab AI platform](http://www.bit-tech.net/news/bits/2016/12/06/deepmind-lab/1)
+
+[Wikipedia on AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+
+[Machine Learning Methods for High-Level Cognitive Capabilities in Robotics](http://journal.frontiersin.org/researchtopic/5334/machine-learning-methods-for-high-level-cognitive-capabilities-in-robotics)
+
 ### We are just Waiting for More Impressive Demos
 
 "Eureaka!" moment will come from refinement and integration of existing techniques
