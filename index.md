@@ -62,7 +62,7 @@ using deep learning techniques.
 Kind of stretch, imprecise literary/artistic way that part of it
 relates to real research. 
 
-{% include youtubePlayer.html id=page.tubewest %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJj4allguoU" frameborder="0" allowfullscreen></iframe>
 
 https://www.youtube.com/watch?v=r8HQoMyu-iQ
 Westworld quote, juergen schmidhuber quote https://www.youtube.com/watch?v=JJj4allguoU
