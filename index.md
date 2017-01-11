@@ -59,7 +59,11 @@ using deep learning techniques.
 ### Westworld's Bicameral Mind and Real AI Consciousness
 
 Kind of stretch, imprecise literary/artistic way that part of it
-relates to real research. https://www.youtube.com/watch?v=r8HQoMyu-iQ
+relates to real research. 
+
+{% include youtubePlayer.html id=r8HQoMyu-iQ %}
+
+https://www.youtube.com/watch?v=r8HQoMyu-iQ
 Westworld quote, juergen schmidhuber quote https://www.youtube.com/watch?v=JJj4allguoU
 
 ### Deep Mind AI Lab, OpenAI Universe, etc.
