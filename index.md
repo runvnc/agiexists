@@ -1,5 +1,6 @@
 ---
 title: Why I Believe Artificial General Intelligence Has Already Been Invented
+tubewest: r8HQoMyu-iQ
 ---
 
 (draft/outline/notes stage)
@@ -61,7 +62,7 @@ using deep learning techniques.
 Kind of stretch, imprecise literary/artistic way that part of it
 relates to real research. 
 
-{% include youtubePlayer.html id=JJj4allguoU %}
+{% include youtubePlayer.html id=page.tubewest %}
 
 https://www.youtube.com/watch?v=r8HQoMyu-iQ
 Westworld quote, juergen schmidhuber quote https://www.youtube.com/watch?v=JJj4allguoU
