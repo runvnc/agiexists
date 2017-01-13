@@ -20,7 +20,7 @@ most likely be key.
 
 "Human-level AI" is more accurately described as animal-like and human-level general intelligence.
 I did not mention it that way initially because many are not familiar with the field of
-AGI or the deep connection between animal and human intelligence.
+AGI or the strong connection between animal and human intelligence.
 
 ### Denial and Worldview Conflicts
 
