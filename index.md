@@ -24,7 +24,7 @@ AGI or the strong connection between animal and human intelligence.
 
 ### Denial and Worldview Conflicts
 
-### The Field of AGI
+### The Field of AGI (It Exists)
 
 ### Animal Intelligence
 
