@@ -1,9 +1,48 @@
 ---
-title: Why I Believe Artificial General Intelligence Has Already Been Invented
+title: Why I Believe Human-Level AI Will be Achieved Before 2020
 tubewest: r8HQoMyu-iQ
 ---
 
 (draft/outline/notes stage)
+
+### Overview
+
+I believe we will achieve human-level AI before 2020.  Most people believe this is unlikely
+because it conflicts with their worldview, and they lack familiarity with certain aspects 
+of AI research.
+This will be achieved through grounded AI agents using general-purpose learning techniques
+and probably involve emulating animal intelligence first. The agents will need to 
+be trained in virtual/real environments in a number of varied tasks that gradually
+increase in complexity.  Combining research from the fields of AGI and deep learning will
+most likely be key.
+
+### "Human-Level AI", AGI, etc.
+
+"Human-level AI" is more accurately described as animal-like and human-level general intelligence.
+I did not mention it that way initially because many are not familiar with the field of
+AGI or the deep connection between animal and human intelligence.
+
+### Denial and Worldview Conflicts
+
+### The Field of AGI
+
+### Animal Intelligence
+
+### Sensory Grounding of Agents
+
+### Deep Learning and High-Bandwidth Granular Data
+
+
+### Deep Learning and Advanced General-Purpose Learning and Automatically Configured Computation
+
+
+### There is No 100% General Intelligence
+
+### Open Environments
+
+### Developmental Training
+
+---------
 
 ### YAID (Yet Another Intelligence Definition)
 
