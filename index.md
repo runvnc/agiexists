@@ -127,3 +127,34 @@ Westworld quote, juergen schmidhuber quote https://www.youtube.com/watch?v=JJj4a
 "Eureaka!" moment will come from refinement and integration of existing techniques
 rather than a truly new discovery.
 
+
+# Notes
+
+------------------------------------------------------
+
+## Article is a bad idea anyway
+
+No point in making an article or page trying to convince people of this, because:
+
+1. They are not going to believe it unless an entire working AGI system is demonstrated or
+   explained extremely clearly in detail.
+
+2. If I _could_ explain how an implementation would work exactly in detail, then,
+   since I am not independently wealthy and actually struggling, I should (must)
+   NOT explain it in detail, but rather try to capitalize on it first.
+
+## Ideas
+
+* https://arxiv.org/pdf/1609.03971.pdf  Feyman Machine
+
+Following is in general, not about that paper really:
+
+One of the key things that makes it this type of AI general is that all of the knowledge
+and skills are encoded in a way that terminates in the same inputs, outputs, timing, series.
+Where the set of sensory inputs and outputs and modalities and mechanism of timing and series
+representation is shared across all domains.
+
+So there is no domain-specific aspect of the model that would necessarily be inapplicable
+to another domain that didn't have some interface to it. 
+
+
