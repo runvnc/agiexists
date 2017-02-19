@@ -147,14 +147,35 @@ No point in making an article or page trying to convince people of this, because
 
 * https://arxiv.org/pdf/1609.03971.pdf  Feyman Machine
 
-Following is in general, not about that paper really:
+Following is in general, not about that paper:
 
-One of the key things that makes it this type of AI general is that all of the knowledge
-and skills are encoded in a way that terminates in the same inputs, outputs, timing, series.
+* One of the key things that makes it this type of AI general is that all of the knowledge
+and skills (models) are encoded in a way that terminates in the same inputs, outputs, timing, series.
 Where the set of sensory inputs and outputs and modalities and mechanism of timing and series
-representation is shared across all domains.
+representation is shared across all domains.  So there is no domain-specific aspect of the model that would necessarily be inapplicable to another domain that didn't have some interface to it. 
 
-So there is no domain-specific aspect of the model that would necessarily be inapplicable
-to another domain that didn't have some interface to it. 
+* (Time) Spike-based neural networks seem to be able to learn much faster than non-spiking NNs.
+
+* Multiple sensory and action modalities may improve learning and seem to be something
+  shared by all animals but commonly not implemented in AI systems, so could be something
+  to focus on
+
+* The system seems to be need to be able to perform basically arbitrary computation in order
+  to 'solve' problems involving many variables, e.g. computing trajectory of a thrown rock, etc.
+  The way that animals may do this could be something like recording quite detailed
+  tables of data and their correlations and then interpolating.  Something like NNs
+  allow them to learn functions involving many parameters by recording data and correlations
+  sparsley and approximating them for new situations.
+
+* Must be able to handle relatively high-bandwidth streams of sensory data and action outputs.
+
+* If there is some (symbolic?) higher-level representation for processing, it must ultimately still
+be associated (terminate with) lower-level sensory inputs and outputs, timings, sequence, relation 
+of such
+
+* We probably need to be able to operate or at least report on higher, more abstract levels in order to be able to operate efficiently and/or understand the operation of system from outside.
+
+* NNs are not the only way to automatically learn these highly parameterized functions or input/output-based models in general.  There just needs to be something like back-propagation that
+can sort of automatically tweak the system via some feedback loops.
 
 
